@@ -1,0 +1,5 @@
+# FIXED
+
+TMS320C55x-DSP\ Library-2013/EXAMPLES/maxidx/TEST.obj: ../TMS320C55x-DSP\ Library-2013/EXAMPLES/maxidx/TEST.C
+
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/maxidx/TEST.C: 

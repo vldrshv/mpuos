@@ -1,0 +1,45 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/55x.cmd 
+
+C_UPPER_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/FTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/IIR4_T.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/LTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/TEST.C 
+
+OBJS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/FTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/IIR4_T.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/LTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/TEST.obj 
+
+C_UPPER_DEPS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/FTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/IIR4_T.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/LTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/IIR4/TEST.pp 
+
+C_UPPER_DEPS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\FTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\IIR4_T.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\LTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\TEST.pp" 
+
+OBJS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\FTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\IIR4_T.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\LTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\IIR4\TEST.obj" 
+
+C_UPPER_SRCS__QUOTED += \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/IIR4/FTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/IIR4/IIR4_T.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/IIR4/LTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/IIR4/TEST.C" 
+
+

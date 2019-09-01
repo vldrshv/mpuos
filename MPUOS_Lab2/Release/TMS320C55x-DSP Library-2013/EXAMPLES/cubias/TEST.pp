@@ -1,0 +1,5 @@
+# FIXED
+
+TMS320C55x-DSP\ Library-2013/EXAMPLES/cubias/TEST.obj: ../TMS320C55x-DSP\ Library-2013/EXAMPLES/cubias/TEST.C
+
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/cubias/TEST.C: 

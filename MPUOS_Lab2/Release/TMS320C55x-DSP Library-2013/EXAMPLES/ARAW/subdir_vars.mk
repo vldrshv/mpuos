@@ -1,0 +1,59 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/55x.cmd 
+
+C_UPPER_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/ARAW_T.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/FTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/LTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/TEST.C 
+
+C_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/araw_c.c 
+
+OBJS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/ARAW_T.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/FTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/LTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/TEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/araw_c.obj 
+
+C_DEPS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/araw_c.pp 
+
+C_UPPER_DEPS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/ARAW_T.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/FTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/LTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ARAW/TEST.pp 
+
+C_DEPS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\araw_c.pp" 
+
+C_UPPER_DEPS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\ARAW_T.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\FTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\LTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\TEST.pp" 
+
+OBJS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\ARAW_T.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\FTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\LTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\TEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ARAW\araw_c.obj" 
+
+C_UPPER_SRCS__QUOTED += \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ARAW/ARAW_T.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ARAW/FTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ARAW/LTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ARAW/TEST.C" 
+
+C_SRCS__QUOTED += \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ARAW/araw_c.c" 
+
+

@@ -1,0 +1,59 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CMD_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/55x.cmd 
+
+C_UPPER_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/ABIAS_T.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/FTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/LTEST.C \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/TEST.C 
+
+C_SRCS += \
+../TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/abias_c.c 
+
+OBJS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/ABIAS_T.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/FTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/LTEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/TEST.obj \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/abias_c.obj 
+
+C_DEPS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/abias_c.pp 
+
+C_UPPER_DEPS += \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/ABIAS_T.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/FTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/LTEST.pp \
+./TMS320C55x-DSP\ Library-2013/EXAMPLES/ABIAS/TEST.pp 
+
+C_DEPS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\abias_c.pp" 
+
+C_UPPER_DEPS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\ABIAS_T.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\FTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\LTEST.pp" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\TEST.pp" 
+
+OBJS__QUOTED += \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\ABIAS_T.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\FTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\LTEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\TEST.obj" \
+"TMS320C55x-DSP Library-2013\EXAMPLES\ABIAS\abias_c.obj" 
+
+C_UPPER_SRCS__QUOTED += \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ABIAS/ABIAS_T.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ABIAS/FTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ABIAS/LTEST.C" \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ABIAS/TEST.C" 
+
+C_SRCS__QUOTED += \
+"../TMS320C55x-DSP Library-2013/EXAMPLES/ABIAS/abias_c.c" 
+
+
